@@ -22,3 +22,5 @@
 - Disburses funds immediately upon receipt of buyer repayment.
 
 // patch: 2026-06-03T21:05:13.043479
+
+// patch: 2026-06-06T11:41:44.347827
